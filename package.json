@@ -1,0 +1,28 @@
+{
+  "name": "ton-playground",
+  "version": "1.0.0",
+  "description": "TON blockchain tutorial examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TtheBC01/TON-playground.git"
+  },
+  "keywords": [
+    "TON"
+  ],
+  "author": "TtheBC01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TtheBC01/TON-playground/issues"
+  },
+  "homepage": "https://github.com/TtheBC01/TON-playground#readme",
+  "dependencies": {
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^14.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
